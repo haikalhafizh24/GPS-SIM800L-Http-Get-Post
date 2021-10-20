@@ -13,7 +13,7 @@ const char user[] = "";
 const char pass[] = "";
 
 //Firebase setting 
-const char server[] = "motorsafetysystem-default-rtdb.firebaseio.com";
+const char server[] = "//FIREBASE PROJECT URL";
 const int  port = 443;
 const String Path = "position"; // firebase root table
 
